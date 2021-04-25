@@ -35,7 +35,7 @@ public class Testing{
 
     }
     @Test
-    //SMENI GO IMETO
+    
     public void Test2() throws InterruptedException {
         LoginPage loginPage = new LoginPage(driver);
         loginPage.open();
